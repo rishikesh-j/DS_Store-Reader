@@ -1,8 +1,6 @@
 # DS_Store-Reader
 An update to lijiejie/ds_store_exp 
 
-# DS_Store-Reader #
-
 A **`.DS_Store`** file disclosure exploit. 
 
 It parses .DS_Store file and reads files recursively.
