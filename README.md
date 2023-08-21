@@ -5,7 +5,7 @@ A **`.DS_Store`** file disclosure exploit.
 
 It parses .DS_Store file and reads files recursively.
 
-    Usage: python DS_Store-Reader.py https://example.com/.DS_Store
+    Usage: python3 DS_Store-Reader.py https://example.com/.DS_Store
 
 ## Install ##
 
