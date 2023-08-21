@@ -13,7 +13,7 @@ It parses .DS_Store file and reads files recursively.
 
 ## Example ##
 
-	ds_store_exp.py http://example.com/.DS_Store
+	DS_Store-Reader.py http://example.com/.DS_Store
 
 	[200] https://example.com/.DS_Store
 	[200] https://example.com/ExampleSchema.json
